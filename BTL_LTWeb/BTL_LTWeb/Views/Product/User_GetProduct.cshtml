@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "User_GetProduct";
+    Layout = null;
+}
+@model List<BTL_LTWeb.Models.Product>
+
+<div class="container-fluid pt-5">
+    <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">You May Also Like</span></h2>
+    <div class="row px-xl-5 pb-3">
+        @foreach (var item in Model)
+        {
+            <a class="h6 text-decoration-none text-truncate" href="/Product/User_ProductDetail?id=@item.product_id" style="margin-left:50px">
+            <div >
+        <div href="/Product/User_ProductDetail?id=@item.product_id" data-id="@item.product_id" style="cursor: pointer">
+            <div class="cat-item d-flex align-items-center mb-4">
+                <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                    <img class="img-fluid" src="@BTL_LTWeb.Models.ImagePathHelper.path/@item.image_url" alt="">
+                </div>
+                <div class="flex-fill pl-3" style="margin-top:10px">
+                    <h6>@item.product_name</h6>
+            <div class="d-flex align-items-center justify-content-center mb-1">
+                <small class="fa fa-star text-primary mr-1"></small>
+                <small class="fa fa-star text-primary mr-1"></small>
+                <small class="fa fa-star text-primary mr-1"></small>
+                <small class="fa fa-star text-primary mr-1"></small>
+                <small class="fa fa-star text-primary mr-1"></small>
+                <small>(99)</small>
+            </div>
+            </div>
+                </div>
+            </div>
+        </div>
+                </a>
+        }
+
+    </div>
+</div>

@@ -1,0 +1,54 @@
+﻿@model List<BTL_LTWeb.Models.Account>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Staff_Layout.cshtml";
+}
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên tài khoản</th>
+                <th>First name</th>
+                <th>Last name</th>
+                <th>Address</th>
+                <th>Email</th>
+                <th>Phone</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>    
+                    <td>@item.account_name</td>
+                    <td>@item.User.first_name</td>
+                    <td>@item.User.last_name</td>
+                    @*<td>@item.User.adr.Substring(0, 20)...</td>*@
+                    <td>@item.User.email</td>
+                    <td>@item.User.phone</td>
+                    <td>
+                        <button type="button" class="btn btn-primary btn-icon-text" onclick="loadInvoiceByAccount('@item.account_name')">
+                            <i class="mdi mdi-history">
+                                <a>History</a>
+                            </i>
+
+                        </button>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function loadInvoiceByAccount(account_name) {
+        window.location.href = "/Staff/InvoiceByAccount?accountname=" + account_name;
+    }
+</script>
+
+
+
+
+
+

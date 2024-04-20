@@ -1,0 +1,49 @@
+﻿@model List<BTL_LTWeb.Models.InvoiceDetail>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Staff_Layout.cshtml";
+}
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                @*<th>InvDetails Id</th>*@
+                <th>Invoice Id</th>
+                @*<th>Product Id</th>*@
+                <th>Product Name</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Color</th>
+                <th>Size</th>
+                <th>Image</th>
+                <th>Total</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    @* <td>@item.invoicesdetails_id</td>*@
+                    <td>@item.invoice_id</td>
+                    @* <td>@item.product_id</td>*@
+                    <td>@item.Product.product_name</td>
+                    <td>@item.Product.description.Substring(0, 8)...</td>
+                    @*                <td>@item.Product.price.ToString("0.##")</td>
+                    *@
+                    <td>@(String.Format("{0:0.##}", item.Product.price)) VNĐ</td>
+                    <td>@item.quantity</td>
+                    <td>@item.color</td>
+                    <td>@item.size</td>
+                    <td>
+                        <img style="height:100px;width:100px" src="~/Assets/staff/Assets/images/@item.Product.image_url" />
+                    </td>
+                    <td>@(String.Format("{0:0.##}", item.total_price)) VNĐ</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

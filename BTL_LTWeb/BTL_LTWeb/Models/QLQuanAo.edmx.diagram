@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5a9d7fb33aea4cc2ac56bacefb5bbd1c" Name="Diagram1">
+        <EntityTypeShape EntityType="QUANAOModel.Account" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANAOModel.Cart" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANAOModel.Category" Width="1.5" PointX="0.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANAOModel.InvoiceDetail" Width="1.5" PointX="8.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANAOModel.Invoice" Width="1.5" PointX="6" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANAOModel.Product" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANAOModel.User" Width="1.5" PointX="0.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QUANAOModel.Warehouse" Width="1.5" PointX="5.25" PointY="12.125" IsExpanded="true" />
+        <AssociationConnector Association="QUANAOModel.FK__Cart__account_na__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANAOModel.FK_Account_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANAOModel.FK_Invoices_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANAOModel.FK__Cart__product_id__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANAOModel.FK_InvoiceDetails_Invoices" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANAOModel.FK_InvoiceDetails_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANAOModel.FK_Warehose_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="QUANAOModel.Categories_Products" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

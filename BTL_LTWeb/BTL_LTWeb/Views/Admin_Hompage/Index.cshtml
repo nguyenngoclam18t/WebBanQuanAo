@@ -1,0 +1,139 @@
+﻿@model IEnumerable<BTL_LTWeb.Models.Invoice>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+<link href="~/Assets/Admin/Assets/vendors/mdi/css/materialdesignicons.min.css" rel="stylesheet" />
+<link href="~/Assets/Admin/Assets/vendors/css/vendor.bundle.base.css" rel="stylesheet" />
+<link href="~/Assets/Admin/Assets/css/style.css" rel="stylesheet" />
+<link href="~/Assets/Admin/Assets/images/favicon.png" rel="stylesheet" />
+<link href="~/Assets/Admin/Assets/css/Board.css" rel="stylesheet" />
+<div class="row_notice">
+    <div class="notice_card ">
+        <p style="font-size:20px;margin-bottom:0;margin-top:50PX;margin-left:10px;color:darkred">EARNING (MONTHLY)</p>
+        <P style="margin-left: 10px; color:black; font-size:20px">$ @ViewBag.AmoutSell</P>
+    </div>
+    <div class="notice_card " onclick="redirectToLinkInvoice() ">
+        <p style="font-size:20px;margin-bottom:0;margin-top:50PX;margin-left:10px;color:darkred">Pending Invoice</p>
+        <P style="margin-left: 10px; color:black; font-size:20px">@ViewBag.Pending invoice</P>
+
+    </div>
+    <div class="notice_card "  onclick="redirectToLinkUser()">
+        <p style="font-size:20px;margin-bottom:0;margin-top:50PX;margin-left:10px;color:darkred">AMOUNT USER</p>
+        <P style="margin-left: 10px; color:black; font-size:20px">@ViewBag.soluongUser  USER</P>
+    </div>
+    <div class="notice_card " onclick="redirectToLinkProduct()">
+        <p style="font-size:20px;margin-bottom:0;margin-top:50PX;margin-left:10px;color:darkred">AMOUNT PRODUCT</p>
+        <P style="margin-left: 10px; color:black; font-size:20px">@ViewBag.AmoutProduct PRODUCT</P>
+    </div>
+</div>
+<div class="main-panel">
+    <div class="content-wrapper">
+
+        <div class="row">
+            <div class="col-lg-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title"> Doanh thu</h4>
+                        <canvas id="areaChart" style="height:250px"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Tỷ Suất</h4>
+                        <canvas id="doughnutChart" style="height:250px"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h1>Orders List</h1>
+        <table class="table" style="margin=0 10px">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.invoice_id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.account_name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.invoice_date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.total_amount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.status)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.invoice_id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.account_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.invoice_date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.total_amount)
+                    </td>
+                    <td class="status_Invoice">
+                        @Html.DisplayFor(modelItem => item.status)
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+
+
+
+<script src="~/Assets/Admin/Assets/vendors/js/vendor.bundle.base.js"></script>
+<script src="../../Assets/vendors/js/vendor.bundle.base.js"></script>
+
+<script src="~/Assets/Admin/Assets/vendors/chart.js/Chart.min.js"></script>
+
+<script src="~/Assets/Admin/Assets/js/off-canvas.js"></script>
+<script src="~/Assets/Admin/Assets/js/hoverable-collapse.js"></script>
+<script src="~/Assets/Admin/Assets/js/misc.js"></script>
+<script src="~/Assets/Admin/Assets/js/settings.js"></script>
+<script src="~/Assets/Admin/Assets/todolist.js"></script>
+
+<script src="~/Assets/Admin/Assets/js/chart.js"></script>
+
+<script>
+    function redirectToLinkProduct() {
+        window.location.href = '/Admin_Product/ViewProduct';
+        }
+    function redirectToLinkInvoice() {
+        window.location.href = '/Admin_Invoices/ViewInvoice';
+        }
+    function redirectToLinkUser() {
+        window.location.href = '/Admin_UserAccount/ViewUserAccount';
+        }
+</script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var a = document.querySelectorAll(".status_Invoice");
+
+        a.forEach(e => {
+            var status = e.textContent.trim();
+
+            if (status === "Success") {
+                e.style.color = 'green';
+            } else if (status === "Pending") {
+                e.style.color = 'yellow';
+            } else {
+                e.style.color = 'red';
+            }
+        });
+    });
+</script>

@@ -1,0 +1,126 @@
+﻿.container{
+    height:100vh;
+}
+.container > div{
+    height:50%;
+    overflow:auto;
+}
+.top_invoice{
+    display:flex;
+    justify-content:space-around;
+}
+.top_invoice > div {
+    height: 90%;
+    width: 48%;
+    overflow: auto;
+}
+
+
+    .bottom_invoice, .top_invoice > div, .modal__body {
+        border: 1px solid gray;
+        border-radius: 5px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        background-color: #5E5E5E;
+        color: white;
+    }
+
+.bottom_invoice > .table, .top_invoice>div > .table {   
+    color: white !important;
+}
+
+.sticky_header {
+    background-color: #333333; /* Màu nền xám nhạt cho tiêu đề */
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.custom-link {
+    color: #1E90FF;
+}
+.custom-link1 {
+    color: white;
+    text-decoration: none;
+}
+
+.modal {
+    background-color: rgba(0, 0, 0, 0.6);
+    display: block;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    right: 0;
+}
+
+.modal__inner {
+    width: 800px;
+    max-height: 590px;
+    position: relative;
+    top: 10%;
+    transform: translatey(-10%);
+    margin: auto;
+    background-color: #fff;
+    border-radius: 7px;
+    overflow: hidden;
+    animation: modalTranform 0.5s ease;
+}
+
+.modal__header {
+    background-color: var(--primary-color);
+    color: #fff;
+    font-size: 17;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    font-size: 17px;
+}
+
+    .modal__header p {
+        flex: 1;
+    }
+
+    .modal__header i {
+        cursor: pointer;
+    }
+
+.modal__body,
+.modal__footer {
+    padding: 15px;
+}
+
+    .modal__body h2 {
+        color: var(--primary-color);
+        margin-bottom: 10px;
+    }
+
+.modal__footer {
+    text-align: right;
+}
+
+    .modal__footer button {
+        padding: 10px 20px;
+        background-color: var(--primary-color);
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        cursor: pointer;
+    }
+
+.actives {
+    display: none;
+}
+
+.actives {
+    display: none;
+}
+
+@keyframes modalTranform {
+    from {
+        top: -200px;
+        opacity: 0;
+    }
+
+    to {
+        top: 10%;
+        opacity: 1;
+    }
+}

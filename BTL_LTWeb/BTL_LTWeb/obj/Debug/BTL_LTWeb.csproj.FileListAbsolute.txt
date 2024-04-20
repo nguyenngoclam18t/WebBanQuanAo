@@ -1,0 +1,726 @@
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll.config
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.pdb
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CopyComplete
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.pdb
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\PagedList.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.dll
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\PagedList.xml
+C:\Users\ASUS\Downloads\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.pdb
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.rsp
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.rsp
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.AppContext.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Console.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Http.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.ValueTuple.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.rsp
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\PagedList.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\PagedList.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.AssemblyReference.cache
+D:\Trash\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CoreCompileInputs.cache
+D:\Trash\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CopyComplete
+D:\Trash\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.pdb
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll.config
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.pdb
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe.config
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.rsp
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe.config
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.rsp
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.AppContext.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Console.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Http.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Sockets.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe.config
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.rsp
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\PagedList.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\PagedList.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.AssemblyReference.cache
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CoreCompileInputs.cache
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CopyComplete
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.dll
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.pdb
+D:\OneDrive - Ho Chi Minh city University of Food Industry\Study\hk5\lập trình web\New folder\BTL_LTWeb\BTL_LTWeb\bin\Stripe.net.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll.config
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.pdb
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe.config
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.rsp
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe.config
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.rsp
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.AppContext.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Console.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Http.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.ValueTuple.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe.config
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.rsp
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\PagedList.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\Stripe.net.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\PagedList.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.AssemblyReference.cache
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CoreCompileInputs.cache
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CopyComplete
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.dll
+D:\Tải xuống\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.pdb
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.AssemblyReference.cache
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CoreCompileInputs.cache
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.pdb
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.pdb
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.rsp
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.rsp
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.AppContext.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Console.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Http.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.ValueTuple.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.rsp
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\PagedList.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Stripe.net.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\PagedList.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CopyComplete
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.AssemblyReference.cache
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CoreCompileInputs.cache
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.pdb
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll.config
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.pdb
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe.config
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.rsp
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe.config
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.rsp
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Managed.Core.targets
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.AppContext.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Collections.Immutable.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Console.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Globalization.Calendars.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Http.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Sockets.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Reflection.Metadata.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.ValueTuple.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XmlDocument.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe.config
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.rsp
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe.config
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.Web.Infrastructure.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\PagedList.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Stripe.net.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\PagedList.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CopyComplete
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\CloudinaryDotNet.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Text.Encodings.Web.dll
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\CloudinaryDotNet.xml
+H:\DALTW\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Text.Encodings.Web.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll.config
+D:\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.pdb
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe.config
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.rsp
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe.config
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.rsp
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.AppContext.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Console.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Http.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Sockets.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.ValueTuple.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe.config
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.rsp
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe
+D:\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\BTL_LTWeb\BTL_LTWeb\bin\CloudinaryDotNet.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\PagedList.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\Stripe.net.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Text.Encodings.Web.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.dll
+D:\BTL_LTWeb\BTL_LTWeb\bin\CloudinaryDotNet.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\PagedList.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Text.Encodings.Web.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.xml
+D:\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.AssemblyReference.cache
+D:\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CoreCompileInputs.cache
+D:\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CopyComplete
+D:\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.dll
+D:\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.pdb
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.AssemblyReference.cache
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CoreCompileInputs.cache
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.pdb
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll.config
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\BTL_LTWeb.pdb
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.exe.config
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csc.rsp
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.exe.config
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\csi.rsp
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.AppContext.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Console.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Http.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Net.Sockets.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.ValueTuple.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.exe.config
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\vbc.rsp
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\CloudinaryDotNet.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\PagedList.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\Stripe.net.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Text.Encodings.Web.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.dll
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\CloudinaryDotNet.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\EntityFramework.SqlServer.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\Newtonsoft.Json.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\PagedList.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\PagedList.Mvc.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Text.Encodings.Web.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Razor.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Webpages.Razor.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Helpers.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Mvc.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Net.Http.Formatting.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\System.Web.Http.WebHost.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tài liệu\BTL_LTWeb\BTL_LTWeb\obj\Debug\BTL_LTWeb.csproj.CopyComplete
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\CloudinaryDotNet.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Text.Encodings.Web.dll
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\CloudinaryDotNet.xml
+D:\Trash\BTL_LTWeb\BTL_LTWeb\BTL_LTWeb\bin\System.Text.Encodings.Web.xml

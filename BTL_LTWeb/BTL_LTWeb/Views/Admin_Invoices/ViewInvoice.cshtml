@@ -1,0 +1,313 @@
+﻿@model IEnumerable<BTL_LTWeb.Models.Invoice>
+
+@{
+    ViewBag.Title = "ViewInvoice";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<link href="~/Assets/Admin/Assets/css/invoice.css" rel="stylesheet" />
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+ 
+<div class="container">
+    <div class="top_invoice">
+      
+        <div class="top_invoice_left">
+            <h3 style="margin-left:30%">Invoice Pending</h3>
+            <table class="table">
+                <tr class="sticky_header changeFontTop">
+                    <th>
+                        @Html.DisplayNameFor(model => model.invoice_id)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.account_name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.invoice_date)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.total_amount)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.status)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    if (item.status == "Pending")
+                    {
+                        <tr class="changeFontTop">
+                            <td>
+                                @Html.DisplayFor(modelItem => item.invoice_id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.account_name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.invoice_date)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.total_amount)
+                            </td>
+                            <td class="status_Invoice">
+                                @Html.DisplayFor(modelItem => item.status)
+                            </td>
+                            <td style="color: #1E90FF">
+                                <button type="button" class="btn btn-success">
+                                    @Html.ActionLink("Success", "Success", new { id = item.invoice_id }, new { @class = "custom-link1" })
+                                </button>
+                                <button type="button" class="btn btn-warning" style="background-color:red">
+                                    @Html.ActionLink("Cancel", "Cancel", new { id = item.invoice_id }, new { @class = "custom-link1" })
+                                </button>
+                                <button onclick="openHistoryInvoice('@item.invoice_id')" type="button" class="btn btn-success open_button1 custom-link1" style="background-color:cornflowerblue">
+                                    Detail
+                                </button>
+
+                            </td>
+                        </tr>
+                    }
+
+
+                }
+
+            </table>
+        </div>
+        <div class="top_invoice_Right">
+            <h3 style="margin-left:30%">Invoice Cancel</h3>
+
+            <table class="table">
+                <tr class="sticky_header changeFontTop">
+                    <th>
+                        @Html.DisplayNameFor(model => model.invoice_id)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.account_name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.invoice_date)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.total_amount)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.status)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    if (item.status == "Cancel")
+                    {
+                        <tr class="changeFontTop">
+                            <td>
+                                @Html.DisplayFor(modelItem => item.invoice_id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.account_name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.invoice_date)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.total_amount)
+                            </td>
+                            <td class="status_Invoice">
+                                @Html.DisplayFor(modelItem => item.status)
+                            </td>
+                            <td style="color: #1E90FF">
+                                <button onclick="openHistoryInvoice('@item.invoice_id')" type="button" class="btn btn-success open_button1 custom-link1" style="background-color:cornflowerblue">
+                                    Detail
+                                </button>
+                            </td>
+                        </tr>
+                    }
+
+
+                }
+
+            </table>
+        </div>
+    </div>
+    <h3  style="margin-left:40%">Invoice Success</h3>
+    <div class="bottom_invoice">
+
+        <table class="table">
+            <tr class="sticky_header">
+                <th>
+                    @Html.DisplayNameFor(model => model.invoice_id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.account_name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.invoice_date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.total_amount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.status)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                if (item.status == "Success")
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.invoice_id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.account_name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.invoice_date)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.total_amount)
+                        </td>
+                        <td class="status_Invoice">
+                            @Html.DisplayFor(modelItem => item.status)
+                        </td>
+                        <td style="color: #1E90FF">
+                            <button onclick="openHistoryInvoice('@item.invoice_id')" type="button" class="btn btn-success open_button1 custom-link1" style="background-color:cornflowerblue">
+                                Detail
+                            </button>
+                        </td>
+                    </tr>
+                }
+
+
+            }
+
+        </table>
+
+    </div>
+</div>
+<div class="modal actives" style="overflow:auto;">
+    <div class="modal__inner" style="background-color: #5E5E5E; overflow: auto; max-height: 590px!important;height:auto;">
+        <div style="display:flex;justify-content:center;color:white" class="modal__header">
+            <h1>Invoice Details</h1>
+            <i class="bx bx-x close-icon"></i>
+        </div>
+        <div class="modal__body" style="color:black">
+            <table class="table" style="color:white">
+                <tr class="sticky_header changeFontTop">
+                    <th>
+                        Img
+                    </th>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Price
+                    </th>
+                    <th>
+                        Quantity
+                    </th>
+                    <th>
+                        Total
+                    </th>
+                </tr>
+                <tbody class="bodyInvoiceDetails">
+                </tbody>
+            </table>
+        </div>
+        <div class="modal__footer">
+            <button class="close-button">Close</button>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    function openHistoryInvoice(InvoiceId) {
+        $.ajax({
+            url: '/api/Admin_ProductApi/GetInvoiceDetails?invoiceId=' + InvoiceId,
+            type: 'GET',
+            success: function (data) {
+                rendertable(data);
+            },
+            error: function () {
+                alert('Error while fetching product data.');
+            }
+        });
+
+    }
+    function rendertable(data) {
+        var tbody = document.querySelector('.bodyInvoiceDetails');
+        tbody.innerHTML = '';
+        data.forEach(function (item) {
+            var row = document.createElement('tr');
+            var cell = document.createElement('td');
+            var img = document.createElement('img');
+            img.src = '/Assets/Admin/Assets/images/Product/' + item.Img;
+            img.style = "width: 150px; height: 150px;"
+            cell.appendChild(img);
+            row.appendChild(cell);
+            for (var key in item) {
+                var cell = document.createElement('td');
+                if (key == 'Img') {
+                    continue;
+                } else {
+                    var cell1 = document.createElement('td');
+                    cell1.textContent = item[key];
+                    row.appendChild(cell1);
+                }
+
+            }
+            tbody.appendChild(row);
+        });
+    }
+</script>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var a = document.querySelectorAll(".status_Invoice");
+
+        a.forEach(e => {
+            var status = e.textContent.trim();
+
+            if (status === "Success") {
+                e.style.color = '#7FFF00';
+            } else if (status === "Pending") {
+                e.style.color = 'yellow';
+            } else {
+                e.style.color = 'red';
+            }
+        });
+    });
+</script>
+
+<script>
+    var btn_open = document.querySelectorAll(".open_button1");
+    var modal = document.querySelector(".modal");
+    var close_icon = document.querySelector(".close-icon");
+    var close_button = document.querySelector(".close-button");
+
+    function hideModal() {
+        if (modal.classList.contains("actives")) {
+            modal.classList.remove("actives");
+        } else {
+            modal.classList.add("actives");
+        }
+    }
+    btn_open.forEach(function (btn) {
+        btn.addEventListener("click", hideModal);
+    });
+    close_button.addEventListener("click", hideModal);
+    close_icon.addEventListener("click", hideModal);
+    modal.addEventListener("click", hideModal);
+    document.querySelector(".modal__inner").addEventListener("click", (e) => {
+        hideModal();
+    });
+    window.onload = updateCurrentPage;
+
+</script>

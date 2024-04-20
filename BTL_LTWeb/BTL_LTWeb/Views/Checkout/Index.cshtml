@@ -1,0 +1,110 @@
+﻿@model List<BTL_LTWeb.Models.CartDetail>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_ShopLayout.cshtml";
+}
+
+@{
+    decimal total = 0;
+}
+
+<div class="container-fluid">
+    <div class="row px-xl-5">
+
+        <div class="col-lg-12">
+            <h5 class="section-title position-relative text-uppercase mb-3"><span class="bg-secondary pr-3">Order Total</span></h5>
+            <div class="bg-light p-30 mb-5">
+                <div class="border-bottom">
+                    <h6 class="mb-3">Products</h6>
+                    @foreach (var item in Model)
+                    {
+                        total += (decimal) item.Total;
+                        <div class="d-flex justify-content-between">
+                            <p>@item.ProductName</p>
+                            <p>@String.Format("{0:0,0}", item.Price) VND</p>
+                            <p>@item.Quantity</p>
+                        </div>
+                    }
+                </div>
+                <div class="border-bottom pt-3 pb-2">
+                    @*<div class="d-flex justify-content-between mb-3">
+                            <h6>Subtotal</h6>
+                            <h6>$150</h6>
+                        </div>*@
+                    <div class="d-flex justify-content-between">
+                        <h6 class="font-weight-medium">Shipping</h6>
+                        <h6 class="font-weight-medium">0</h6>
+                    </div>
+                </div>
+                <div class="pt-2">
+                    <div class="d-flex justify-content-between mt-2">
+                        <h5>Total</h5>
+                        <h5>@String.Format("{0:0,0}", total) VND</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="mb-5">
+                <h5 class="section-title position-relative text-uppercase mb-3"><span class="bg-secondary pr-3">Payment</span></h5>
+                <div class="bg-light p-30">
+
+                    @*<form id="payment-form" method="post" action="~/Checkout/Submit">
+
+
+                            <div id="card-element"></div>
+
+                            <input type="hidden" name="stripeToken" id="stripeToken" />
+                            <input type="hidden" name="stripeEmail" id="stripeEmail" />
+
+                            <button type="submit" class="btn btn-block btn-primary font-weight-bold py-3">Place Order</button>
+
+                        </form>*@
+                    <div class="form-group">
+                        <div id="card-element" style="font-size: 20px"></div>
+                    </div>
+                    <a href="#" id="checkout-button" class="btn btn-block btn-primary font-weight-bold py-3">Place Order</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@*<script src="https://js.stripe.com/v3/"
+    integrity="sha256-rZoXd8RSzRO+Z9y47TsZfhVlI15aUzdB/FX6iEGQIM0="
+    crossorigin="anonymous"></script>*@
+
+<script type="text/javascript" src="https://js.stripe.com/v3/"></script>
+
+<script>
+    var stripe = Stripe('pk_test_51KATlDIqI2QEiuWAQhiSGKpM4JeJG83RHWKJ5rm4eunN1e8fUV5CufRHjAoXFI7bYKG3NTLsMXINc5ggVUMplAsJ00iw0rGW83');
+
+    var elements = stripe.elements();
+    var card = elements.create('card');
+
+    card.mount('#card-element');
+
+    var checkoutButton = document.getElementById('checkout-button');
+
+    checkoutButton.addEventListener('click', function (event) {
+        event.preventDefault();
+
+        stripe.createToken(card).then(function (result) {
+            if (result.error) {
+                // Báo lỗi cho người dùng
+                console.error(result.error.message);
+            } else {
+                // Gửi token đến server
+                var token = result.token.id;
+                var email = result.token.email;
+                console.log({ token, email });
+                // Thực hiện các hành động cần thiết với token và email
+
+                window.location.href = `/Checkout/Submit?stripeToken=${token}&stripeEmail=${email}`;
+
+                // Sau đó chuyển hướng hoặc thực hiện các hành động khác
+            }
+        });
+    });
+
+</script>
+

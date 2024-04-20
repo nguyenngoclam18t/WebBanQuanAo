@@ -1,0 +1,65 @@
+﻿
+@model List<BTL_LTWeb.Models.Invoice>
+@{
+
+
+    ViewBag.Title = "InvoiceByAccount";
+    Layout = "~/Views/Shared/Staff_Layout.cshtml";
+
+}
+
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Invoices ID</th>
+                <th>Account Name</th>
+                <th>Date</th>
+                <th>Total</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.invoice_id</td>
+                    <td>@item.account_name</td>
+                    <td>@item.invoice_date</td>
+                    <td>@(String.Format("{0:0.##}", item.total_amount))</td>
+                    <td>
+                        @if (item.status == "Success")
+                        {
+                            <label class="badge badge-success">
+                                @item.status
+                            </label>
+                        }
+                        @if (item.status == "Pending")
+                        {
+                            <label class="badge badge-warning">
+                                @item.status
+                            </label>
+                        }
+                        @if (item.status == "Cancel")
+                        {
+                            <label class="badge badge-danger">
+                                @item.status
+                            </label>
+                        }
+                    </td>
+                    <td>
+                        <button style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start;" type="button" class="btn btn-info btn-fw btn-icon-text" onclick="Load_InvoiceDetails('@item.invoice_id')">
+                            <i class="mdi mdi-information-outline">
+
+                            </i>
+                            <a>ViewInfo</a>
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

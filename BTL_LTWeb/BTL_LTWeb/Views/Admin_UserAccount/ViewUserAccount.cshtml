@@ -1,0 +1,113 @@
+﻿@model IEnumerable<BTL_LTWeb.Models.Admin_UserAcount>
+
+@{
+    ViewBag.Title = "ViewUserAccount";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+<style>
+    .custom-link1 {
+        color: white;
+        text-decoration: none;
+    }
+</style>
+
+    <form method="post" action="@Url.Action("ViewUserAccount", "Admin_UserAccount")" class="nav-link mt-2 mt-md-0 d-none d-lg-flex search" id="searchForm">
+        <input name="nameAccount" type="text" class="form-control full-width-input" placeholder="Search User" style="color: white;">
+        <input name="page" id="currentPage" type="hidden" value="@ViewBag.CurrentPage" />
+        <button type="submit">Search</button>
+    </form>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.account_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.first_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.last_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.adr)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.account_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.first_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.last_name)
+            </td>
+            <td>
+                @{
+                    var adr = item.adr;
+                    var displayText = adr.Length > 15 ? adr.Substring(0, 15) + "..." : adr;
+                }
+
+                @Html.Raw(displayText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @if (item.isDeleted == false)
+                {
+                    <button type="button" class="btn btn-warning" style="background-color:red">
+                        @Html.ActionLink("Block", "Block", new { account_name = item.account_name }, new { @class = "custom-link1" })
+                    </button>
+                }
+                else
+                {
+                    <button type="button" class="btn btn-warning" style="background-color:red">
+                        @Html.ActionLink("UnBlock", "UnBlock", new { account_name = item.account_name }, new { @class = "custom-link1" })
+                    </button>
+                }
+
+            </td>
+        </tr>
+    }
+
+</table>
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+
+        <li class="page-item @(ViewBag.CurrentPage == 1 ? "disabled" : "")">
+            @Html.ActionLink("Previous", "ViewUserAccount", new { page = ViewBag.CurrentPage - 1, nameProduct = ViewBag.NameProduct }, new { @class = "page-link" })
+        </li>
+
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                @Html.ActionLink(i.ToString(), "ViewUserAccount", new { page = i, nameProduct = ViewBag.NameProduct }, new { @class = "page-link" })
+            </li>
+        }
+        <li class="page-item @(ViewBag.CurrentPage == ViewBag.TotalPages ? "disabled" : "")">
+            @Html.ActionLink("Next", "ViewUserAccount", new { page = ViewBag.CurrentPage + 1, nameProduct = ViewBag.NameProduct }, new { @class = "page-link" })
+        </li>
+
+    </ul>
+</nav>
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<!-- DataTables CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css">
+<!-- DataTables JS -->
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
